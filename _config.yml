@@ -1,5 +1,5 @@
 title: Godson Antony
-#logo: /assets/img/headshot_circle.png
+logo: assets/img/Profile_Picture.png
 #description: text below image
 #show_downloads: false
-theme: assets/img/Profile_Picture.png
+theme: jekyll-theme-minimal
